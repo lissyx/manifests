@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote fetch="https://source.codeaurora.org/quic/la/" name="caf"/>
+
+  <!-- CAF -->
+  <project path="device/qcom/sepolicy" name="device/qcom/sepolicy" groups="pdk" remote="caf" revision="refs/tags/LA.UM.8.8.r1-08600-SDM710.0" />
+
+</manifest>
